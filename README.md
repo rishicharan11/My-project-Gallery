@@ -1,2 +1,2 @@
 # My-project-Gallery
-This a HTML and CSS project where I show case my projects and link them to their respective Github repository.
+This is an HTML and CSS image responsive project where I showcase my projects and link them to their GitHub repository.
